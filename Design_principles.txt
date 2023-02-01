@@ -1,0 +1,2 @@
+In SDM there are various design principles..
+It will be useful for developer to develop project..
